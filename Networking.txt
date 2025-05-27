@@ -1,0 +1,14 @@
+computer networks:
+
+=> it a set of diff devices and connections btw them.
+
+
+Top level Applications:
+1 - SMPT = simple mail transer protocol
+2 - HHTPS = hypertext transfer protocol secure
+3 - FTP = file transfer protocol
+4 - SSH = secure shell
+
+#TCP/IP Model:
+-> Transmission control protocol and Internet protocol
+-> It consists of 4 layers
