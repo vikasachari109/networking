@@ -900,4 +900,4 @@ All zones: UDR → 0.0.0.0/0 → Azure Firewall for traffic inspection.
 
 ---
 
-> **Start Over:** [01-Prerequisites-and-CIDR-Fundamentals.md](./01-Prerequisites-and-CIDR-Fundamentals.md) to review concepts before re-attempting hard exercises.
+> **Start Over:** [CIDR-Fundamentals.md](./CIDR-Fundamentals.md) to review concepts before re-attempting hard exercises.

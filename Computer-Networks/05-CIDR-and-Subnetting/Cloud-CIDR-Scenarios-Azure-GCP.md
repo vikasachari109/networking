@@ -712,4 +712,4 @@ Key CIDR rules:
 
 ---
 
-> **Next:** [04-Exercises.md](./04-Exercises.md) — Practice what you've learned with 30 exercises across three difficulty levels.
+> **Next:** [CIDR-Exercises.md](./CIDR-Exercises.md) — Practice what you've learned with 30 exercises across three difficulty levels.

@@ -523,4 +523,4 @@ Given an IP and prefix (e.g., `172.20.100.75/20`):
 
 ---
 
-> **Next:** [02-Subnets-Deep-Dive.md](./02-Subnets-Deep-Dive.md) — Learn what subnets are, why they exist, and how to design them.
+> **Next:** [Subnetting-Deep-Dive.md](./Subnetting-Deep-Dive.md) — Learn what subnets are, why they exist, and how to design them.
